@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hambur>
+    <menu hambur="ham">
+        <titulo>San Martín</titulo>
+        <descripcion info="segundo">Carne de vaca con pimientos asados, queso brie, cebolla, lechuga, salsa holandesa.</descripcion>
+        <calorias>200</calorias>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <precio>13.90€</precio>
+    </menu>
+
+    <menu hambur="ham">
+        <titulo>Buey 1</titulo>
+        <descripcion info="primero">Carne de buey con cebolla caramelizada, queso gorgonzola, lechuga lollo, salsa strogonoff.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>15.90€</precio>
+    </menu>
+
+    <menu hambur="ham">
+        <titulo>Buey 2</titulo>
+        <descripcion info="segundo">Carne de buey con champiñón portobello, queso cheddar rojo, rúcula, salsa BBQ tennesee.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>15.90€</precio>
+    </menu>
+
+    <menu hambur="ham">
+        <titulo>Inglesa</titulo>
+        <descripcion info="segundo">Carne de vaca con bacon,champiñones portobello,tomate, queso cheddar.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>15.90€</precio>
+    </menu>
+
+    <menu hambur="ham">
+        <titulo>Francesa</titulo>
+        <descripcion info="segundo">Carne de vaca cpn cebolla caramelizada, queso de cabra, lechuga, tomate, salsa de miel.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>15.90€</precio>
+    </menu>
+
+</hambur>

@@ -1,0 +1,104 @@
+.row-c:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url(../img/papel.jpg);
+}
+
+/* TEXTO */
+.titulo{
+    text-align: center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-weight: bolder;
+    padding: 3% 0%;
+    font-size: 8vw;
+    color: red;
+}
+
+th {
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+/* COLUMNAS */
+
+.column-2 {
+    width: 50%;
+    float: left;
+    padding: 0% 5%;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+img {
+    width: 75%;
+    border: 15px;
+    border-radius: 15px;
+    height: 35%;
+    padding-left: 25%;
+}
+
+@media only screen and (max-width: 600px) {
+    /* column-2 pasará de tener 50% a 100% */
+    .column-2 {
+        width: 100%;
+    }
+    /* column-3 pasará de tener 33.33% a 100% */
+    .column-3 {
+        width: 100%;
+    }
+    /* column-4 pasará de tener 25% a 50% */
+    .column-4 {
+        width: 50%;
+    }
+    .oculto {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    /* column-2 pasará de tener 50% a 100% */
+    .column-2 {
+        width: 100%;
+    }
+    .oculto {
+        display: none;
+    }
+    .titulo{
+        padding: 1.5% 0%;
+        font-size: 7vw;
+    }
+    
+    th {
+        font-size: 0.75rem;
+        text-align: center;
+    }
+    
+    h2 {
+        font-size: 1rem;
+        text-align: center;
+    }
+    
+    p {
+        font-size: 0.75rem;
+    }
+}

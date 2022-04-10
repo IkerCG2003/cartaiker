@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aper>
+    <menu aper="aperi">
+        <titulo>Croquetas</titulo>
+        <descripcion info="tapa">10 deliciosas croquetas de jamón.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>5.90€</precio>
+    </menu>
+
+    <menu aper="aperi">
+        <titulo>Pulpo a la gallega</titulo>
+        <descripcion info="tapa">Pulpo cortado en finas rodajas con patata y su punto de picante</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>6.90€</precio>
+    </menu>
+
+    <menu aper="aperi">
+        <titulo>Chocos</titulo>
+        <descripcion info="entrante">Chocos grandes fritos.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>7.00€</precio>
+    </menu>
+
+    <menu aper="aperi">
+        <titulo>Pan de masa madre</titulo>
+        <descripcion info="entrante">Pan que de la casa recién hecho.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>2.00€</precio>
+    </menu>
+
+    <menu aper="aperi">
+        <titulo>Humus</titulo>
+        <descripcion info="entrante">Tan bueno que te hace decir "hummm que bueno".</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>3.00€</precio>
+    </menu>
+</aper>

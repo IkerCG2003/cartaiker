@@ -1,0 +1,41 @@
+<cafes>
+    <menu caf="cafe">
+        <titulo>Café</titulo>
+        <descripcion info="con leche">110 ml de café de filtro.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.00€</precio>
+    </menu>
+
+    <menu caf="cafe">
+        <titulo>Ristretto</titulo>
+        <descripcion info="sin leche">22 ml de espresso.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.25€</precio>
+    </menu>
+
+    <menu caf="cafe">
+        <titulo>Con leche</titulo>
+        <descripcion info="sin leche">22 ml de café con leche de máquina.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.25€</precio>
+    </menu>
+
+    <menu caf="cafe">
+        <titulo>Solo</titulo>
+        <descripcion info="sin leche">22 ml de café solo.</descripcion>
+        <caracteristicas>Lo mejor para el día de San-Va-Lentín.</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.25€</precio>
+    </menu>
+
+    <menu caf="cafe">
+        <titulo>Macchiato</titulo>
+        <descripcion info="con leche">60 ml de espresso, 150 ml.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.50€</precio>
+    </menu>
+</cafes>

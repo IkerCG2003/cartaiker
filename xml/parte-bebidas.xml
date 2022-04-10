@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bebidas>
+    <menu bebi="bebidas">
+        <titulo>Cola</titulo>
+        <descripcion info="refresco">Coca-Cola Normal, Zero, Light de 500cl.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.50€</precio>
+    </menu>
+
+    <menu beb="bebidas">
+        <titulo>Cerveza</titulo>
+        <descripcion info="alcohol">Cerve
+            za de 500cl.</descripcion><caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>2.00€</precio>
+    </menu>
+
+    <menu beb="bebidas">
+        <titulo>Fanta</titulo>
+        <descripcion info="refresco">Fanta de limón io naranja de 500cl.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>1.75€</precio>
+    </menu>
+
+    <menu beb="bebidas">
+        <titulo>Vino</titulo>
+        <descripcion info="alcohol">Vino tinto de la casa.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>4.00€</precio>
+    </menu>
+    
+    <menu beb="bebidas">
+        <titulo>Agua</titulo>
+        <descripcion info="alcohol">Agua del grifo 10/10.</descripcion>
+        <caracteristicas>Muy Bueno recién hecho</caracteristicas>
+        <calorias>200</calorias>
+        <precio>4.00€</precio>
+    </menu>
+</bebidas>
